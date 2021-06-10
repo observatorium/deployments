@@ -16,15 +16,22 @@
   identifier = "design"
   url = "/docs/design/"
 
+[[docs]]
+name = "Accepted Proposals"
+weight = 30
+identifier = "acc-proposals"
+url = "/docs/proposals/accepted"
+
+[[docs]]
+name = "Rejected Proposals"
+weight = 31
+identifier = "rej-proposals"
+url = "/docs/proposals/rejected"
+
 [[main]]
   name = "Docs"
   url = "/docs/usage/getting-started.md/"
   weight = 10
-
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 20
 
 # [[social]]
 #   name = "Twitter"

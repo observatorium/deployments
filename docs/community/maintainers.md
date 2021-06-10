@@ -1,5 +1,9 @@
 ---
 title: "Maintainers"
+menu:
+  docs:
+    parent: "community"
+toc: true
 ---
 
 # Core Maintainers of this Project

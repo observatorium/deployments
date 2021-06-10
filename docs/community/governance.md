@@ -1,5 +1,9 @@
 ---
 title: "Governance"
+menu:
+  docs:
+    parent: "community"
+toc: true
 ---
 
 # Governance
